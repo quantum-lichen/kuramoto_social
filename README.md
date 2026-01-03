@@ -23,7 +23,7 @@ This repository contains the mathematical proof that **Groove**, **Riot**, and *
 
 ## 📂 THE ARTIFACTS
 
-### 📜 [The Paper (PDF)](./main.pdf)
+### 📜 [The Paper (PDF)]([./main.pdf](https://github.com/quantum-lichen/kuramoto_social/blob/main/Main.pdf))
 The unified theory linking Neural Entrainment, the Tanganyika Laughter Epidemic, and modern Political Polarization into a single framework.
 
 ### 🧠 [Omega Bias Theory](./docs/omega_bias_theory.md)
