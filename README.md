@@ -26,13 +26,13 @@ This repository contains the mathematical proof that **Groove**, **Riot**, and *
 ### 📜 [The Paper (PDF)](./main.pdf)
 The unified theory linking Neural Entrainment, the Tanganyika Laughter Epidemic, and modern Political Polarization into a single framework.
 
-### 🧠 [Omega Bias Theory](./omega_bias_theory.md)
+### 🧠 [Omega Bias Theory](./docs/omega_bias_theory.md)
 Defining the potential energy of cognitive dissonance. Why do we resist the truth? Because changing phase costs energy.
 
-### 🚁 [Kuramoto ASIC](./SPECS_KURAMOTO_ASIC.md)
+### 🚁 [Kuramoto ASIC](./docs/SPECS_KURAMOTO_ASIC.md)
 Hardware specifications for a neuromorphic processor with 496 auto-synchronizing oscillators. The silicon brain of the future.
 
-### 🕹️ [Anti-Mode Simulator](./anti_mode_sim.html)
+### 🕹️ [Anti-Mode Simulator](./docs/anti_mode_sim.html)
 Interactive JS simulation. Inject "Contrarian Agents" into a mainstream population and watch the synchronization collapse in real-time.
 
 ---
